@@ -41,7 +41,7 @@
     padding: 15px 30px;
     font-size: 50px;
     margin-bottom: 170px;
-    width: 178%
+    width: 128%
     
 }
 /* Navigation */
@@ -125,11 +125,10 @@ header{
 .touches-title{
     font-size: 8em;
     margin-top: 0px;
-    margin: 20px;
+    margin: 30px;
 }
 .touch{
     display: flex;
-    /* padding: 130px 230px; */
     margin-top: 0px;
     justify-content: space-around;
     background-color: rgb(222, 222, 250, 0.3);
@@ -140,8 +139,8 @@ header{
 }
 .touches input[type=email], .touches input[type=text], .touches textarea{
     
-    height: 100%;
-    width:  170%;
+    height: 70%;
+    width:  120%;
     border-radius: 5px;
     background-color: white;
     display: block;
