@@ -123,8 +123,9 @@ header{
 }
 /* touch styles */
 .touches-title{
-    font-size: 10em;
+    font-size: 8em;
     margin-top: 0px;
+    margin: 20px;
 }
 .touch{
     display: flex;
